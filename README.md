@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/omspradippatil/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/omspradippatil/Leet-code/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/omspradippatil/Leet-code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/omspradippatil/Leet-code/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/omspradippatil/Leet-code/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/omspradippatil/Leet-code/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
