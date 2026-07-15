@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/omspradippatil/Leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/omspradippatil/Leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omspradippatil/Leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/omspradippatil/Leet-code/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/omspradippatil/Leet-code/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/omspradippatil/Leet-code/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/omspradippatil/Leet-code/tree/master/0220-contains-duplicate-iii) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/omspradippatil/Leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/omspradippatil/Leet-code/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/omspradippatil/Leet-code/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/omspradippatil/Leet-code/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
