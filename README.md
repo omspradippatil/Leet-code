@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/omspradippatil/Leet-code/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/omspradippatil/Leet-code/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/omspradippatil/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/omspradippatil/Leet-code/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omspradippatil/Leet-code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/omspradippatil/Leet-code/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/omspradippatil/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/omspradippatil/Leet-code/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/omspradippatil/Leet-code/tree/master/0500-keyboard-row) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/omspradippatil/Leet-code/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
