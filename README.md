@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/omspradippatil/Leet-code/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/omspradippatil/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/omspradippatil/Leet-code/tree/master/1051-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omspradippatil/Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/omspradippatil/Leet-code/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omspradippatil/Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/omspradippatil/Leet-code/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omspradippatil/Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
