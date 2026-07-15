@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omspradippatil/Leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/omspradippatil/Leet-code/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/omspradippatil/Leet-code/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1929-concatenation-of-array](https://github.com/omspradippatil/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omspradippatil/Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/omspradippatil/Leet-code/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
