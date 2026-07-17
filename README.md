@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/omspradippatil/Leet-code/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/omspradippatil/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/omspradippatil/Leet-code/tree/master/1051-height-checker) |
+| [1266-minimum-time-visiting-all-points](https://github.com/omspradippatil/Leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omspradippatil/Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omspradippatil/Leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/omspradippatil/Leet-code/tree/master/1470-shuffle-the-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/omspradippatil/Leet-code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/omspradippatil/Leet-code/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/omspradippatil/Leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/omspradippatil/Leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/omspradippatil/Leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
