@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omspradippatil/Leet-code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/omspradippatil/Leet-code/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/omspradippatil/Leet-code/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/omspradippatil/Leet-code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/omspradippatil/Leet-code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omspradippatil/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/omspradippatil/Leet-code/tree/master/0128-longest-consecutive-sequence) |
@@ -104,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/omspradippatil/Leet-code/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omspradippatil/Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/omspradippatil/Leet-code/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/omspradippatil/Leet-code/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
